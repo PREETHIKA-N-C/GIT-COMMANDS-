@@ -13,6 +13,13 @@ function Genres() {
         <li>BIOGRAPHY</li>
         <li>SELF-HELP</li>
         <li>FANTASY</li>
+        <li>BIOGRAPHY</li>
+        <li>NONFICTION</li>
+        <li>POETRY</li>
+        <li>DRAMA</li>
+        <li>SHORT STORY</li>
+        <li>TRAVEL LITERATURE</li>
+        <li>PARANORMAL</li>
       </ul>
     </div>
   );
