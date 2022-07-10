@@ -1,6 +1,6 @@
 function Header() {
   return (
-    <div className="App">
+    <div className="Header">
       <h1>E-LIBRARY</h1>
     </div>
   );
