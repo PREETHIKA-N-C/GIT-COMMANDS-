@@ -1,6 +1,6 @@
 function Footer() {
   return (
-    <footer>
+    <footer className="Footer">
         <p>© 2022 PREETHIKA</p>
     </footer>
     
